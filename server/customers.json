@@ -1,0 +1,32 @@
+[
+    {
+        "customer_id": "0001",
+        "firstname": "John",
+        "lastname": "Smith",
+        "email": "johnsmith@mail.com"
+    },
+    {
+        "customer_id": "0002",
+        "firstname": "Bob",
+        "lastname": "Doe",
+        "email": "bobdoe@mail.com"
+    },
+    {
+        "customer_id": "0003",
+        "firstname": "Mark",
+        "lastname": "Rusal",
+        "email": "bobdoe@mail.com"
+    },
+    {
+        "customer_id": "0004",
+        "firstname": "Rob",
+        "lastname": "Monroe",
+        "email": "bobdoe@mail.com"
+    },
+    {
+        "customer_id": "0006",
+        "firstname": "Rio",
+        "lastname": "De J",
+        "email": "bobdoe@mail.com"
+    }
+]

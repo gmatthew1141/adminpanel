@@ -1,0 +1,62 @@
+[
+    {
+        "account_name": "jsmith1",
+        "customer_id": "0001",
+        "contest_id": "con0001"
+    },
+    {
+        "account_name": "jsmith2",
+        "customer_id": "0001",
+        "contest_id": "con0002"
+    },
+    {
+        "account_name": "bdoe1",
+        "customer_id": "0002",
+        "contest_id": "con0001"
+    },
+    {
+        "account_name": "jsmith3",
+        "customer_id": "0001",
+        "contest_id": "con0003"
+    },
+    {
+        "account_name": "bdoe2",
+        "customer_id": "0002",
+        "contest_id": "con0002"
+    },
+    {
+        "account_name": "bdoe3",
+        "customer_id": "0002",
+        "contest_id": "con0003"
+    },
+    {
+        "account_name": "mrus1",
+        "customer_id": "0003",
+        "contest_id": "con0001"
+    },
+    {
+        "account_name": "mrus2",
+        "customer_id": "0003",
+        "contest_id": "con0001"
+    },
+    {
+        "account_name": "rroe1",
+        "customer_id": "0004",
+        "contest_id": "con0004"
+    },
+    {
+        "account_name": "rroe2",
+        "customer_id": "0004",
+        "contest_id": "con0005"
+    },
+    {
+        "account_name": "rroe3",
+        "customer_id": "0004",
+        "contest_id": "con0006"
+    },
+    {
+        "account_name": "jsmith4",
+        "customer_id": "0001",
+        "contest_id": "con0005"
+    }
+]
